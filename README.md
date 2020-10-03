@@ -5,25 +5,20 @@ Hi, I'm Ruchir Toshniwal, a passionate frontEnd web developer from India.
 ## I am passionate about:
 
 - Web Develpoment
-- Graphics Designing
-- Android Dev
-- Gaming
 
 ## Skills
 
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" /> 
-<img src="https://img.shields.io/badge/Tailwind CSS -1cc4b4" />
 <img src="https://img.shields.io/badge/JAVA -FF0000" />  
-<img src="https://img.shields.io/badge/Illustrator -ff7b19" /> <img src="https://img.shields.io/badge/Photoshop -30a8fe" />
+
 
 </br>
 <details>
-	<summary>Tools</summary>
+	<summary>Code Editor</summary>
 	<ul>
     	<li>Visual Studio Code</li>
-		<li>Adobe Illustrator</li>
-		<li>Adobe Photoshop</li>
-		<li>Adobe After Effects</li>
+	<li>Sublime Text</li>
+		
     </ul>
 
 </details>
